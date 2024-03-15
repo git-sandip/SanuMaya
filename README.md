@@ -8,11 +8,19 @@ SanuMaya is being developed by [Sandip Sapkota](https://github.com/git-sandip) a
 
 ## Features ✨
 
-- **Command Handling**: SanuMaya will include a variety of commands to enhance your Discord server experience.
+- **Command Handling**: SanuMaya includes a variety of commands to enhance your Discord server experience.
 - **Customization**: Easily customize and extend SanuMaya's functionality to suit your server's needs.
 - **Modular Design**: Built with a modular design, making it easy to add new features and maintain existing ones.
 
 ## Getting Started 🚀
+
+To be updated.
+
+## Installation 🔧
+
+To be updated.
+
+## Usage 📋
 
 To be updated.
 
@@ -26,4 +34,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements 🙏
 
-SanuMaya is named after the Mymble character (also known as "Sanumaya" in Nepali), known for her loving and caring nature. Special thanks to the creators of Moomin for the inspiration.
+- Thanks to the Mymble character in the Swedish Moomin cartoon for the inspiration behind SanuMaya's name.
