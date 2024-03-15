@@ -14,7 +14,7 @@ export default async function (client) {
     );
 
     for (const localCommand of localCommands) {
-      const { name, description, options } = localCommand;
+      const { name, description, options } = localCommand.default;
 
       const existingCommand = await applicationCommands.cache.find(
         (cmd) => cmd.name === name

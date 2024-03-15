@@ -1,7 +1,7 @@
 import { ApplicationCommandOptionType, PermissionFlagsBits } from "discord.js";
 
 const banCommand = {
-  name: "band",
+  name: "ban",
   description: "Bans a member from the server!",
   // devOnly:Boolean
   //testOnly:Boolean
